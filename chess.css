@@ -11,3 +11,13 @@ body {
     background: #e59110;
     box-shadow: 5px 5px 8px #bebdt, -5px -5px 8px #ffffff;
 }
+.black {
+    float: left;
+    width: 80px;
+    height: 80px;
+    background-color: #e59110;
+    font-size: 50px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
