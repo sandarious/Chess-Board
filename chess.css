@@ -9,7 +9,9 @@ body {
     border: 10px solid #000;
     border-radius: 4px;
     background: #e59110;
-    box-shadow: 5px 5px 8px #bebdb6, -5px -5px 8px #ffffff;
+    box-shadow: 5px 5px 8px #bebdb6, 
+    -5px -5px 8px #ffffff;
+
 }
  .black{
     float: left;
